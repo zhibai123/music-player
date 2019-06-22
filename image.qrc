@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/7.jpg</file>
+        <file>image/666.png</file>
+        <file>image/9.jpg</file>
+        <file>image/8.jpg</file>
+        <file>image/ico.png</file>
+        <file>image/search.png</file>
+        <file>image/last_mini.png</file>
+        <file>image/last.png</file>
+        <file>image/paly.png</file>
+        <file>image/pause.png</file>
+        <file>image/sss.png</file>
+        <file>image/zangting.png</file>
+        <file>image/pre1.png</file>
+        <file>image/next1.png</file>
+        <file>image/bofang.png</file>
+        <file>image/next.png</file>
+        <file>image/1.qss</file>
+    </qresource>
+</RCC>
